@@ -104,3 +104,6 @@ removeBook(1);
 console.log("Removed Book with Id 1", JSON.parse(JSON.stringify(books)));
 removeBook(4);
 console.log("Remove Book with ID 4", removeBook(4));
+
+//Test your functions by adding, updating, and removing books, and finding books by their id.
+// Each step is performed under the respective functions.
